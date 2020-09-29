@@ -1,0 +1,26 @@
+{"tyontekijat":
+[
+{"firstName":"Mauno",
+  "lastName":"Ahonen",
+  "osoite": "Rantatie 7",
+  "puhelin": [{"koti":"09525526"},
+    {"työ": "045727272"}]
+},
+{"firstName":"Matti",
+  "lastName":"Näsä",
+  "osoite": "Lumimäki 8",
+  "puhelin": [{"koti":"095223233"},
+    {"työ": "041888753"}]
+},
+{"firstName":"Raimo",
+  "lastName":"Vormisto",
+  "osoite":"Sähkökuja 3",
+  "puhelin":[{"koti":"0502229910"}
+    ]
+},
+{"firstName":"Timo",
+  "lastName":"Silakka",
+  "osoite": "Jätemäki 102",
+  "puhelin": [{"työ": "0501112223"}]
+}
+]}
